@@ -6,6 +6,14 @@ Companion tool **Autoinwigilator** inspects open windows and generates ready-to-
 
 ---
 
+# Why?
+
+During my internship I was given a repetitive task — manually clicking through dialog windows that kept popping up while printing invoices. After doing it for a while I figured there had to be a better way, so I wrote this instead. Never clicked a single one of those windows again.
+
+> ⚠️ Fair warning — this is an amateur project built by a 17-year-old during a one-month internship with zero prior Python experience. It works, but don't expect enterprise-grade code. AI was involved.
+
+---
+
 ## Requirements
 
 - Python 3.10+
